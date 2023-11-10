@@ -1,0 +1,65 @@
+
+    [
+        {
+            "id": 1,
+            "name":"Asus",
+            "image": "https://i.imgur.com/jLA5hEQ.png"
+        },
+        {
+            "id": 2,
+            "name":"Dell",
+            "image": "https://i.imgur.com/X9jIu13.png"
+        },
+        {
+            "id": 3,
+            "name":"Macbook",
+            "image": "https://i.imgur.com/M2OCGAd.png"
+        },
+        {
+            "id": 4,
+            "name":"Razer",
+            "image": "https://i.imgur.com/i7p5EVC.png"
+        },
+        {
+            "id": 5,
+            "name":"Samsung",
+            "image": "https://i.imgur.com/JhtL6Gy.png"
+        },
+        {
+            "id": 6,
+            "name":"MSI",
+            "image": "https://i.imgur.com/zwqm6xX.png"
+        },
+        {
+            "id": 7,
+            "name":"LG Gram",
+            "image": "https://i.imgur.com/aOonrZ4.png"
+        },
+        {
+            "id": 8,
+            "name":"Lenovo",
+            "image": "https://i.imgur.com/tcl9lDr.png"
+        },
+        {
+            "id": 9,
+            "name":"Acer",
+            "image": "https://i.imgur.com/bzHWBjQ.png"
+        },
+        {
+            "id": 10,
+            "name":"Microsoft",
+            "image": "https://i.imgur.com/zpIIEQS.png"
+        },
+        {
+            "id": 11,
+            "name":"XiaoMi",
+            "image": "https://i.imgur.com/l8eLdQ4.png"
+        },
+        {
+            "id": 12,
+            "name":"Huawei",
+            "image": "https://i.imgur.com/0xRN98i.png"
+        }
+
+
+    ]
